@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "6031695",
+        "yesPercent": "36.5",
+        "noVotes": "10515337",
+        "noPercent": "63.5"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "328921",
+        "yesPercent": "44.4",
+        "noVotes": "412527",
+        "noPercent": "55.6"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "338",
+        "yesPercent": "48.1",
+        "noVotes": "365",
+        "noPercent": "51.9"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "4614",
+        "yesPercent": "21.2",
+        "noVotes": "17145",
+        "noPercent": "78.8"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "28433",
+        "yesPercent": "29.2",
+        "noVotes": "69078",
+        "noPercent": "70.8"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "5421",
+        "yesPercent": "20.8",
+        "noVotes": "20623",
+        "noPercent": "79.2"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "2003",
+        "yesPercent": "25.8",
+        "noVotes": "5748",
+        "noPercent": "74.2"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "205490",
+        "yesPercent": "37.5",
+        "noVotes": "343100",
+        "noPercent": "62.5"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "3777",
+        "yesPercent": "34.1",
+        "noVotes": "7314",
+        "noPercent": "65.9"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "28498",
+        "yesPercent": "25.4",
+        "noVotes": "83621",
+        "noPercent": "74.6"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "116040",
+        "yesPercent": "33.0",
+        "noVotes": "235370",
+        "noPercent": "67.0"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "2343",
+        "yesPercent": "21.9",
+        "noVotes": "8338",
+        "noPercent": "78.1"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "21116",
+        "yesPercent": "39.0",
+        "noVotes": "33096",
+        "noPercent": "61.0"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "22388",
+        "yesPercent": "45.2",
+        "noVotes": "27138",
+        "noPercent": "54.8"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "2449",
+        "yesPercent": "26.8",
+        "noVotes": "6699",
+        "noPercent": "73.2"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "78547",
+        "yesPercent": "28.0",
+        "noVotes": "202207",
+        "noPercent": "72.0"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "12119",
+        "yesPercent": "29.2",
+        "noVotes": "29378",
+        "noPercent": "70.8"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "3612",
+        "yesPercent": "33.4",
+        "noVotes": "7204",
+        "noPercent": "66.6"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "2461",
+        "yesPercent": "21.4",
+        "noVotes": "9017",
+        "noPercent": "78.6"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "1655113",
+        "yesPercent": "41.1",
+        "noVotes": "2367456",
+        "noPercent": "58.9"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "14510",
+        "yesPercent": "28.0",
+        "noVotes": "37346",
+        "noPercent": "72.0"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "50918",
+        "yesPercent": "35.4",
+        "noVotes": "93066",
+        "noPercent": "64.6"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "2437",
+        "yesPercent": "24.2",
+        "noVotes": "7614",
+        "noPercent": "75.8"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "9462",
+        "yesPercent": "38.7",
+        "noVotes": "14959",
+        "noPercent": "61.3"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "28024",
+        "yesPercent": "32.6",
+        "noVotes": "57896",
+        "noPercent": "67.4"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "773",
+        "yesPercent": "20.7",
+        "noVotes": "2967",
+        "noPercent": "79.3"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "2139",
+        "yesPercent": "33.8",
+        "noVotes": "4181",
+        "noPercent": "66.2"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "66304",
+        "yesPercent": "41.7",
+        "noVotes": "92877",
+        "noPercent": "58.3"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "21147",
+        "yesPercent": "32.1",
+        "noVotes": "44683",
+        "noPercent": "67.9"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "16690",
+        "yesPercent": "27.2",
+        "noVotes": "44699",
+        "noPercent": "72.8"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "486294",
+        "yesPercent": "33.1",
+        "noVotes": "983901",
+        "noPercent": "66.9"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "53998",
+        "yesPercent": "24.7",
+        "noVotes": "165054",
+        "noPercent": "75.3"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "2618",
+        "yesPercent": "24.5",
+        "noVotes": "8062",
+        "noPercent": "75.5"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "303901",
+        "yesPercent": "32.2",
+        "noVotes": "640660",
+        "noPercent": "67.8"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "226505",
+        "yesPercent": "33.3",
+        "noVotes": "453665",
+        "noPercent": "66.7"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "10354",
+        "yesPercent": "37.2",
+        "noVotes": "17508",
+        "noPercent": "62.8"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "263368",
+        "yesPercent": "33.2",
+        "noVotes": "529629",
+        "noPercent": "66.8"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "555605",
+        "yesPercent": "36.2",
+        "noVotes": "978542",
+        "noPercent": "63.8"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "194360",
+        "yesPercent": "46.7",
+        "noVotes": "221964",
+        "noPercent": "53.3"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "87175",
+        "yesPercent": "32.7",
+        "noVotes": "179456",
+        "noPercent": "67.3"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "43979",
+        "yesPercent": "29.3",
+        "noVotes": "106314",
+        "noPercent": "70.7"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "133623",
+        "yesPercent": "37.9",
+        "noVotes": "218866",
+        "noPercent": "62.1"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "71457",
+        "yesPercent": "38.0",
+        "noVotes": "116625",
+        "noPercent": "62.0"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "317668",
+        "yesPercent": "39.3",
+        "noVotes": "490267",
+        "noPercent": "60.7"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "54748",
+        "yesPercent": "39.9",
+        "noVotes": "82616",
+        "noPercent": "60.1"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "17811",
+        "yesPercent": "20.3",
+        "noVotes": "70086",
+        "noPercent": "79.7"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "546",
+        "yesPercent": "29.2",
+        "noVotes": "1327",
+        "noPercent": "70.8"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "6905",
+        "yesPercent": "30.6",
+        "noVotes": "15668",
+        "noPercent": "69.4"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "73942",
+        "yesPercent": "36.8",
+        "noVotes": "127119",
+        "noPercent": "63.2"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "87371",
+        "yesPercent": "34.4",
+        "noVotes": "166683",
+        "noPercent": "65.6"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "63717",
+        "yesPercent": "30.9",
+        "noVotes": "142401",
+        "noPercent": "69.1"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "10109",
+        "yesPercent": "25.2",
+        "noVotes": "30079",
+        "noPercent": "74.8"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "5551",
+        "yesPercent": "21.1",
+        "noVotes": "20814",
+        "noPercent": "78.9"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "1532",
+        "yesPercent": "25.4",
+        "noVotes": "4503",
+        "noPercent": "74.6"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "43610",
+        "yesPercent": "30.8",
+        "noVotes": "98027",
+        "noPercent": "69.2"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "6336",
+        "yesPercent": "21.8",
+        "noVotes": "22792",
+        "noPercent": "78.2"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "140368",
+        "yesPercent": "34.2",
+        "noVotes": "270080",
+        "noPercent": "65.8"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "25258",
+        "yesPercent": "34.7",
+        "noVotes": "47523",
+        "noPercent": "65.3"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "State Requirements for Kidney Dialysis Clinics",
+        "Number": "23",
+        "yesVotes": "6899",
+        "yesPercent": "26.2",
+        "noVotes": "19394",
+        "noPercent": "73.8"
+      }
+    ]
+  }
+}

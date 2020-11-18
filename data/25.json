@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "7110253",
+        "yesPercent": "43.6",
+        "noVotes": "9191548",
+        "noPercent": "56.4"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "409218",
+        "yesPercent": "56.9",
+        "noVotes": "310230",
+        "noPercent": "43.1"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "385",
+        "yesPercent": "55.1",
+        "noVotes": "314",
+        "noPercent": "44.9"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "6007",
+        "yesPercent": "28.0",
+        "noVotes": "15467",
+        "noPercent": "72.0"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "34780",
+        "yesPercent": "36.2",
+        "noVotes": "61327",
+        "noPercent": "63.8"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "7487",
+        "yesPercent": "29.1",
+        "noVotes": "18274",
+        "noPercent": "70.9"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "2125",
+        "yesPercent": "27.8",
+        "noVotes": "5512",
+        "noPercent": "72.2"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "277008",
+        "yesPercent": "50.8",
+        "noVotes": "268197",
+        "noPercent": "49.2"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "3414",
+        "yesPercent": "31.0",
+        "noVotes": "7582",
+        "noPercent": "69.0"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "35728",
+        "yesPercent": "32.3",
+        "noVotes": "75021",
+        "noPercent": "67.7"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "114822",
+        "yesPercent": "33.1",
+        "noVotes": "232000",
+        "noPercent": "66.9"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "2444",
+        "yesPercent": "23.1",
+        "noVotes": "8118",
+        "noPercent": "76.9"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "25940",
+        "yesPercent": "48.1",
+        "noVotes": "28019",
+        "noPercent": "51.9"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "18781",
+        "yesPercent": "38.4",
+        "noVotes": "30068",
+        "noPercent": "61.6"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "3320",
+        "yesPercent": "36.6",
+        "noVotes": "5747",
+        "noPercent": "63.4"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "80850",
+        "yesPercent": "29.2",
+        "noVotes": "195712",
+        "noPercent": "70.8"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "10926",
+        "yesPercent": "27.1",
+        "noVotes": "29384",
+        "noPercent": "72.9"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "5185",
+        "yesPercent": "48.4",
+        "noVotes": "5538",
+        "noPercent": "51.6"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "2140",
+        "yesPercent": "18.6",
+        "noVotes": "9355",
+        "noPercent": "81.4"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "1788378",
+        "yesPercent": "45.3",
+        "noVotes": "2163534",
+        "noPercent": "54.7"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "13871",
+        "yesPercent": "27.0",
+        "noVotes": "37435",
+        "noPercent": "73.0"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "88152",
+        "yesPercent": "61.4",
+        "noVotes": "55324",
+        "noPercent": "38.6"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "2963",
+        "yesPercent": "29.8",
+        "noVotes": "6976",
+        "noPercent": "70.2"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "13757",
+        "yesPercent": "56.9",
+        "noVotes": "10436",
+        "noPercent": "43.1"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "28302",
+        "yesPercent": "33.4",
+        "noVotes": "56515",
+        "noPercent": "66.6"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "849",
+        "yesPercent": "22.9",
+        "noVotes": "2857",
+        "noPercent": "77.1"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "2596",
+        "yesPercent": "41.4",
+        "noVotes": "3669",
+        "noPercent": "58.6"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "73739",
+        "yesPercent": "47.8",
+        "noVotes": "80389",
+        "noPercent": "52.2"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "31377",
+        "yesPercent": "48.5",
+        "noVotes": "33279",
+        "noPercent": "51.5"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "25781",
+        "yesPercent": "42.2",
+        "noVotes": "35272",
+        "noPercent": "57.8"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "571359",
+        "yesPercent": "39.2",
+        "noVotes": "886186",
+        "noPercent": "60.8"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "71946",
+        "yesPercent": "33.3",
+        "noVotes": "143980",
+        "noPercent": "66.7"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "3502",
+        "yesPercent": "32.9",
+        "noVotes": "7129",
+        "noPercent": "67.1"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "344546",
+        "yesPercent": "37.1",
+        "noVotes": "583135",
+        "noPercent": "62.9"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "288410",
+        "yesPercent": "42.9",
+        "noVotes": "383486",
+        "noPercent": "57.1"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "10433",
+        "yesPercent": "38.2",
+        "noVotes": "16873",
+        "noPercent": "61.8"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "290970",
+        "yesPercent": "37.7",
+        "noVotes": "481653",
+        "noPercent": "62.3"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "644108",
+        "yesPercent": "42.6",
+        "noVotes": "867966",
+        "noPercent": "57.4"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "233310",
+        "yesPercent": "56.3",
+        "noVotes": "181363",
+        "noPercent": "43.7"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "100769",
+        "yesPercent": "38.4",
+        "noVotes": "161632",
+        "noPercent": "61.6"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "57683",
+        "yesPercent": "38.9",
+        "noVotes": "90533",
+        "noPercent": "61.1"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "189654",
+        "yesPercent": "54.7",
+        "noVotes": "157030",
+        "noPercent": "45.3"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "86831",
+        "yesPercent": "46.8",
+        "noVotes": "98796",
+        "noPercent": "53.2"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "420749",
+        "yesPercent": "52.6",
+        "noVotes": "379557",
+        "noPercent": "47.4"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "75417",
+        "yesPercent": "55.4",
+        "noVotes": "60602",
+        "noPercent": "44.6"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "21759",
+        "yesPercent": "25.0",
+        "noVotes": "65310",
+        "noPercent": "75.0"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "623",
+        "yesPercent": "33.3",
+        "noVotes": "1246",
+        "noPercent": "66.7"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "7296",
+        "yesPercent": "32.6",
+        "noVotes": "15105",
+        "noPercent": "67.4"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "90195",
+        "yesPercent": "45.5",
+        "noVotes": "107965",
+        "noPercent": "54.5"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "137128",
+        "yesPercent": "54.5",
+        "noVotes": "114590",
+        "noPercent": "45.5"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "71514",
+        "yesPercent": "34.9",
+        "noVotes": "133688",
+        "noPercent": "65.1"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "11294",
+        "yesPercent": "28.5",
+        "noVotes": "28381",
+        "noPercent": "71.5"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "6068",
+        "yesPercent": "23.3",
+        "noVotes": "19998",
+        "noPercent": "76.7"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "2008",
+        "yesPercent": "33.6",
+        "noVotes": "3960",
+        "noPercent": "66.4"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "40753",
+        "yesPercent": "29.0",
+        "noVotes": "99756",
+        "noPercent": "71.0"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "8510",
+        "yesPercent": "29.5",
+        "noVotes": "20334",
+        "noPercent": "70.5"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "168230",
+        "yesPercent": "41.6",
+        "noVotes": "236497",
+        "noPercent": "58.4"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "37192",
+        "yesPercent": "51.5",
+        "noVotes": "34996",
+        "noPercent": "48.5"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Eliminates Money Bail System",
+        "Number": "25",
+        "yesVotes": "7671",
+        "yesPercent": "29.6",
+        "noVotes": "18250",
+        "noPercent": "70.4"
+      }
+    ]
+  }
+}

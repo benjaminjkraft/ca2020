@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "6265712",
+        "yesPercent": "38.2",
+        "noVotes": "10120686",
+        "noPercent": "61.8"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "215175",
+        "yesPercent": "29.5",
+        "noVotes": "514474",
+        "noPercent": "70.5"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "196",
+        "yesPercent": "28.0",
+        "noVotes": "505",
+        "noPercent": "72.0"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "10186",
+        "yesPercent": "47.2",
+        "noVotes": "11399",
+        "noPercent": "52.8"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "42221",
+        "yesPercent": "43.8",
+        "noVotes": "54180",
+        "noPercent": "56.2"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "11807",
+        "yesPercent": "45.9",
+        "noVotes": "13908",
+        "noPercent": "54.1"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "3704",
+        "yesPercent": "48.4",
+        "noVotes": "3952",
+        "noPercent": "51.6"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "191559",
+        "yesPercent": "35.1",
+        "noVotes": "354127",
+        "noPercent": "64.9"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "5513",
+        "yesPercent": "50.0",
+        "noVotes": "5520",
+        "noPercent": "50.0"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "50647",
+        "yesPercent": "45.8",
+        "noVotes": "60021",
+        "noPercent": "54.2"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "174010",
+        "yesPercent": "50.2",
+        "noVotes": "172513",
+        "noPercent": "49.8"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "5451",
+        "yesPercent": "51.6",
+        "noVotes": "5112",
+        "noPercent": "48.4"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "17559",
+        "yesPercent": "32.5",
+        "noVotes": "36405",
+        "noPercent": "67.5"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "22035",
+        "yesPercent": "44.7",
+        "noVotes": "27231",
+        "noPercent": "55.3"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "3722",
+        "yesPercent": "41.1",
+        "noVotes": "5337",
+        "noPercent": "58.9"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "139357",
+        "yesPercent": "50.1",
+        "noVotes": "139027",
+        "noPercent": "49.9"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "23146",
+        "yesPercent": "56.1",
+        "noVotes": "18124",
+        "noPercent": "43.9"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "4182",
+        "yesPercent": "39.0",
+        "noVotes": "6530",
+        "noPercent": "61.0"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "6938",
+        "yesPercent": "60.6",
+        "noVotes": "4507",
+        "noPercent": "39.4"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "1369927",
+        "yesPercent": "34.5",
+        "noVotes": "2605395",
+        "noPercent": "65.5"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "27946",
+        "yesPercent": "53.9",
+        "noVotes": "23859",
+        "noPercent": "46.1"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "37121",
+        "yesPercent": "26.0",
+        "noVotes": "105566",
+        "noPercent": "74.0"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "4754",
+        "yesPercent": "47.7",
+        "noVotes": "5210",
+        "noPercent": "52.3"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "7052",
+        "yesPercent": "29.3",
+        "noVotes": "17055",
+        "noPercent": "70.7"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "38839",
+        "yesPercent": "45.5",
+        "noVotes": "46465",
+        "noPercent": "54.5"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "1945",
+        "yesPercent": "52.3",
+        "noVotes": "1773",
+        "noPercent": "47.7"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "2251",
+        "yesPercent": "35.9",
+        "noVotes": "4016",
+        "noPercent": "64.1"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "52610",
+        "yesPercent": "33.4",
+        "noVotes": "104873",
+        "noPercent": "66.6"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "23688",
+        "yesPercent": "36.6",
+        "noVotes": "41052",
+        "noPercent": "63.4"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "24121",
+        "yesPercent": "39.5",
+        "noVotes": "36950",
+        "noPercent": "60.5"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "614124",
+        "yesPercent": "42.1",
+        "noVotes": "844634",
+        "noPercent": "57.9"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "99576",
+        "yesPercent": "46.0",
+        "noVotes": "117036",
+        "noPercent": "54.0"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "4550",
+        "yesPercent": "43.1",
+        "noVotes": "6014",
+        "noPercent": "56.9"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "416985",
+        "yesPercent": "44.6",
+        "noVotes": "518123",
+        "noPercent": "55.4"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "272479",
+        "yesPercent": "40.1",
+        "noVotes": "406495",
+        "noPercent": "59.9"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "10697",
+        "yesPercent": "38.8",
+        "noVotes": "16838",
+        "noPercent": "61.2"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "337716",
+        "yesPercent": "43.0",
+        "noVotes": "446894",
+        "noPercent": "57.0"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "575438",
+        "yesPercent": "37.9",
+        "noVotes": "941828",
+        "noPercent": "62.1"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "118310",
+        "yesPercent": "28.2",
+        "noVotes": "301053",
+        "noPercent": "71.8"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "105454",
+        "yesPercent": "40.1",
+        "noVotes": "157460",
+        "noPercent": "59.9"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "61810",
+        "yesPercent": "41.5",
+        "noVotes": "87032",
+        "noPercent": "58.5"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "112942",
+        "yesPercent": "32.5",
+        "noVotes": "234062",
+        "noPercent": "67.5"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "66389",
+        "yesPercent": "35.6",
+        "noVotes": "120058",
+        "noPercent": "64.4"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "291635",
+        "yesPercent": "36.3",
+        "noVotes": "511056",
+        "noPercent": "63.7"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "39800",
+        "yesPercent": "29.2",
+        "noVotes": "96544",
+        "noPercent": "70.8"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "46026",
+        "yesPercent": "53.1",
+        "noVotes": "40652",
+        "noPercent": "46.9"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "780",
+        "yesPercent": "41.8",
+        "noVotes": "1086",
+        "noPercent": "58.2"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "9782",
+        "yesPercent": "43.9",
+        "noVotes": "12524",
+        "noPercent": "56.1"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "75645",
+        "yesPercent": "38.1",
+        "noVotes": "122662",
+        "noPercent": "61.9"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "75316",
+        "yesPercent": "30.1",
+        "noVotes": "175089",
+        "noPercent": "69.9"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "89926",
+        "yesPercent": "43.7",
+        "noVotes": "115818",
+        "noPercent": "56.3"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "19073",
+        "yesPercent": "48.3",
+        "noVotes": "20455",
+        "noPercent": "51.7"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "13122",
+        "yesPercent": "50.5",
+        "noVotes": "12881",
+        "noPercent": "49.5"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "2544",
+        "yesPercent": "42.5",
+        "noVotes": "3439",
+        "noPercent": "57.5"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "75779",
+        "yesPercent": "53.5",
+        "noVotes": "65903",
+        "noPercent": "46.5"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "13321",
+        "yesPercent": "46.3",
+        "noVotes": "15428",
+        "noPercent": "53.7"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "162029",
+        "yesPercent": "40.0",
+        "noVotes": "242759",
+        "noPercent": "60.0"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "24028",
+        "yesPercent": "33.2",
+        "noVotes": "48388",
+        "noPercent": "66.8"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Parole Restrictions for Certain Offenses",
+        "Number": "20",
+        "yesVotes": "12774",
+        "yesPercent": "48.8",
+        "noVotes": "13389",
+        "noPercent": "51.2"
+      }
+    ]
+  }
+}

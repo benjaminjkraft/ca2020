@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "6651879",
+        "yesPercent": "40.1",
+        "noVotes": "9918561",
+        "noPercent": "59.9"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "373273",
+        "yesPercent": "50.1",
+        "noVotes": "371089",
+        "noPercent": "49.9"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "320",
+        "yesPercent": "44.9",
+        "noVotes": "393",
+        "noPercent": "55.1"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "4625",
+        "yesPercent": "21.3",
+        "noVotes": "17084",
+        "noPercent": "78.7"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "30606",
+        "yesPercent": "31.5",
+        "noVotes": "66595",
+        "noPercent": "68.5"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "5436",
+        "yesPercent": "21.0",
+        "noVotes": "20464",
+        "noPercent": "79.0"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "1778",
+        "yesPercent": "23.0",
+        "noVotes": "5944",
+        "noPercent": "77.0"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "223060",
+        "yesPercent": "40.7",
+        "noVotes": "324596",
+        "noPercent": "59.3"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "2969",
+        "yesPercent": "26.9",
+        "noVotes": "8070",
+        "noPercent": "73.1"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "27119",
+        "yesPercent": "24.2",
+        "noVotes": "84785",
+        "noPercent": "75.8"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "106021",
+        "yesPercent": "30.3",
+        "noVotes": "243483",
+        "noPercent": "69.7"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "2069",
+        "yesPercent": "19.4",
+        "noVotes": "8617",
+        "noPercent": "80.6"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "22836",
+        "yesPercent": "41.8",
+        "noVotes": "31751",
+        "noPercent": "58.2"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "17743",
+        "yesPercent": "36.0",
+        "noVotes": "31589",
+        "noPercent": "64.0"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "2838",
+        "yesPercent": "31.2",
+        "noVotes": "6256",
+        "noPercent": "68.8"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "72849",
+        "yesPercent": "26.0",
+        "noVotes": "207048",
+        "noPercent": "74.0"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "10104",
+        "yesPercent": "24.4",
+        "noVotes": "31229",
+        "noPercent": "75.6"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "4105",
+        "yesPercent": "38.1",
+        "noVotes": "6678",
+        "noPercent": "61.9"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "1864",
+        "yesPercent": "16.2",
+        "noVotes": "9633",
+        "noPercent": "83.8"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "2003292",
+        "yesPercent": "49.6",
+        "noVotes": "2031898",
+        "noPercent": "50.4"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "12918",
+        "yesPercent": "24.8",
+        "noVotes": "39214",
+        "noPercent": "75.2"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "59881",
+        "yesPercent": "41.4",
+        "noVotes": "84819",
+        "noPercent": "58.6"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "2382",
+        "yesPercent": "23.7",
+        "noVotes": "7650",
+        "noPercent": "76.3"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "11335",
+        "yesPercent": "46.6",
+        "noVotes": "12985",
+        "noPercent": "53.4"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "27408",
+        "yesPercent": "32.0",
+        "noVotes": "58203",
+        "noPercent": "68.0"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "673",
+        "yesPercent": "18.0",
+        "noVotes": "3073",
+        "noPercent": "82.0"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "2175",
+        "yesPercent": "34.3",
+        "noVotes": "4170",
+        "noPercent": "65.7"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "67795",
+        "yesPercent": "42.7",
+        "noVotes": "91058",
+        "noPercent": "57.3"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "24718",
+        "yesPercent": "37.7",
+        "noVotes": "40781",
+        "noPercent": "62.3"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "18990",
+        "yesPercent": "30.8",
+        "noVotes": "42582",
+        "noPercent": "69.2"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "501021",
+        "yesPercent": "34.0",
+        "noVotes": "973108",
+        "noPercent": "66.0"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "55722",
+        "yesPercent": "25.5",
+        "noVotes": "163170",
+        "noPercent": "74.5"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "2530",
+        "yesPercent": "23.7",
+        "noVotes": "8140",
+        "noPercent": "76.3"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "317701",
+        "yesPercent": "33.7",
+        "noVotes": "624444",
+        "noPercent": "66.3"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "250389",
+        "yesPercent": "36.5",
+        "noVotes": "435783",
+        "noPercent": "63.5"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "10367",
+        "yesPercent": "37.3",
+        "noVotes": "17391",
+        "noPercent": "62.7"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "275295",
+        "yesPercent": "34.9",
+        "noVotes": "513900",
+        "noPercent": "65.1"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "581579",
+        "yesPercent": "37.8",
+        "noVotes": "955142",
+        "noPercent": "62.2"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "219287",
+        "yesPercent": "51.8",
+        "noVotes": "204214",
+        "noPercent": "48.2"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "91492",
+        "yesPercent": "34.6",
+        "noVotes": "173277",
+        "noPercent": "65.4"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "48565",
+        "yesPercent": "32.3",
+        "noVotes": "101704",
+        "noPercent": "67.7"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "149696",
+        "yesPercent": "42.4",
+        "noVotes": "203165",
+        "noPercent": "57.6"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "70227",
+        "yesPercent": "37.3",
+        "noVotes": "118048",
+        "noPercent": "62.7"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "348572",
+        "yesPercent": "43.0",
+        "noVotes": "462356",
+        "noPercent": "57.0"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "62555",
+        "yesPercent": "45.3",
+        "noVotes": "75399",
+        "noPercent": "54.7"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "17318",
+        "yesPercent": "19.8",
+        "noVotes": "70361",
+        "noPercent": "80.2"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "461",
+        "yesPercent": "24.6",
+        "noVotes": "1414",
+        "noPercent": "75.4"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "6186",
+        "yesPercent": "27.5",
+        "noVotes": "16308",
+        "noPercent": "72.5"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "78978",
+        "yesPercent": "39.5",
+        "noVotes": "121180",
+        "noPercent": "60.5"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "108527",
+        "yesPercent": "42.8",
+        "noVotes": "144993",
+        "noPercent": "57.2"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "65907",
+        "yesPercent": "31.9",
+        "noVotes": "140787",
+        "noPercent": "68.1"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "9278",
+        "yesPercent": "23.3",
+        "noVotes": "30627",
+        "noPercent": "76.7"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "4810",
+        "yesPercent": "18.3",
+        "noVotes": "21440",
+        "noPercent": "81.7"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "1498",
+        "yesPercent": "24.9",
+        "noVotes": "4516",
+        "noPercent": "75.1"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "37295",
+        "yesPercent": "26.2",
+        "noVotes": "104810",
+        "noPercent": "73.8"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "6604",
+        "yesPercent": "22.8",
+        "noVotes": "22389",
+        "noPercent": "77.2"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "151503",
+        "yesPercent": "37.1",
+        "noVotes": "256946",
+        "noPercent": "62.9"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "30694",
+        "yesPercent": "42.1",
+        "noVotes": "42150",
+        "noPercent": "57.9"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Expands Governments’ Authority to Rent Control",
+        "Number": "21",
+        "yesVotes": "6640",
+        "yesPercent": "25.2",
+        "noVotes": "19662",
+        "noPercent": "74.8"
+      }
+    ]
+  }
+}

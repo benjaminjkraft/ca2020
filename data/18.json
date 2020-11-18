@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "7386588",
+        "yesPercent": "44.0",
+        "noVotes": "9404745",
+        "noPercent": "56.0"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "451583",
+        "yesPercent": "59.8",
+        "noVotes": "303531",
+        "noPercent": "40.2"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "337",
+        "yesPercent": "47.1",
+        "noVotes": "379",
+        "noPercent": "52.9"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "4738",
+        "yesPercent": "21.4",
+        "noVotes": "17374",
+        "noPercent": "78.6"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "32516",
+        "yesPercent": "32.9",
+        "noVotes": "66394",
+        "noPercent": "67.1"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "5742",
+        "yesPercent": "21.7",
+        "noVotes": "20675",
+        "noPercent": "78.3"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "1821",
+        "yesPercent": "23.4",
+        "noVotes": "5966",
+        "noPercent": "76.6"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "271191",
+        "yesPercent": "48.5",
+        "noVotes": "287813",
+        "noPercent": "51.5"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "3108",
+        "yesPercent": "27.5",
+        "noVotes": "8212",
+        "noPercent": "72.5"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "31268",
+        "yesPercent": "27.3",
+        "noVotes": "83355",
+        "noPercent": "72.7"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "117207",
+        "yesPercent": "33.1",
+        "noVotes": "237238",
+        "noPercent": "66.9"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "2150",
+        "yesPercent": "20.1",
+        "noVotes": "8561",
+        "noPercent": "79.9"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "26024",
+        "yesPercent": "46.8",
+        "noVotes": "29568",
+        "noPercent": "53.2"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "19272",
+        "yesPercent": "38.7",
+        "noVotes": "30539",
+        "noPercent": "61.3"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "2940",
+        "yesPercent": "31.6",
+        "noVotes": "6367",
+        "noPercent": "68.4"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "79937",
+        "yesPercent": "28.3",
+        "noVotes": "202281",
+        "noPercent": "71.7"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "10754",
+        "yesPercent": "25.9",
+        "noVotes": "30771",
+        "noPercent": "74.1"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "4152",
+        "yesPercent": "38.0",
+        "noVotes": "6760",
+        "noPercent": "62.0"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "1664",
+        "yesPercent": "14.3",
+        "noVotes": "9938",
+        "noPercent": "85.7"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "2109666",
+        "yesPercent": "51.8",
+        "noVotes": "1965730",
+        "noPercent": "48.2"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "13627",
+        "yesPercent": "25.9",
+        "noVotes": "38929",
+        "noPercent": "74.1"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "85531",
+        "yesPercent": "58.0",
+        "noVotes": "61858",
+        "noPercent": "42.0"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "2599",
+        "yesPercent": "25.5",
+        "noVotes": "7581",
+        "noPercent": "74.5"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "12627",
+        "yesPercent": "50.9",
+        "noVotes": "12180",
+        "noPercent": "49.1"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "28953",
+        "yesPercent": "33.2",
+        "noVotes": "58163",
+        "noPercent": "66.8"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "680",
+        "yesPercent": "18.0",
+        "noVotes": "3106",
+        "noPercent": "82.0"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "2511",
+        "yesPercent": "38.5",
+        "noVotes": "4013",
+        "noPercent": "61.5"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "73823",
+        "yesPercent": "45.8",
+        "noVotes": "87328",
+        "noPercent": "54.2"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "30222",
+        "yesPercent": "45.2",
+        "noVotes": "36704",
+        "noPercent": "54.8"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "23852",
+        "yesPercent": "37.9",
+        "noVotes": "39120",
+        "noPercent": "62.1"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "531430",
+        "yesPercent": "35.7",
+        "noVotes": "956484",
+        "noPercent": "64.3"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "63876",
+        "yesPercent": "28.6",
+        "noVotes": "159312",
+        "noPercent": "71.4"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "2718",
+        "yesPercent": "25.1",
+        "noVotes": "8117",
+        "noPercent": "74.9"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "343335",
+        "yesPercent": "36.3",
+        "noVotes": "602259",
+        "noPercent": "63.7"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "288613",
+        "yesPercent": "41.6",
+        "noVotes": "405773",
+        "noPercent": "58.4"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "10688",
+        "yesPercent": "38.1",
+        "noVotes": "17342",
+        "noPercent": "61.9"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "293552",
+        "yesPercent": "36.8",
+        "noVotes": "504744",
+        "noPercent": "63.2"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "652222",
+        "yesPercent": "41.6",
+        "noVotes": "916899",
+        "noPercent": "58.4"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "277793",
+        "yesPercent": "64.3",
+        "noVotes": "154477",
+        "noPercent": "35.7"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "93288",
+        "yesPercent": "34.9",
+        "noVotes": "174265",
+        "noPercent": "65.1"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "55572",
+        "yesPercent": "36.0",
+        "noVotes": "98993",
+        "noPercent": "64.0"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "186823",
+        "yesPercent": "52.0",
+        "noVotes": "172367",
+        "noPercent": "48.0"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "85618",
+        "yesPercent": "44.7",
+        "noVotes": "105942",
+        "noPercent": "55.3"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "395430",
+        "yesPercent": "48.1",
+        "noVotes": "425908",
+        "noPercent": "51.9"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "77315",
+        "yesPercent": "54.8",
+        "noVotes": "63837",
+        "noPercent": "45.2"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "17532",
+        "yesPercent": "19.8",
+        "noVotes": "71208",
+        "noPercent": "80.2"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "516",
+        "yesPercent": "27.0",
+        "noVotes": "1398",
+        "noPercent": "73.0"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "6303",
+        "yesPercent": "27.3",
+        "noVotes": "16770",
+        "noPercent": "72.7"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "85774",
+        "yesPercent": "42.2",
+        "noVotes": "117327",
+        "noPercent": "57.8"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "124077",
+        "yesPercent": "47.9",
+        "noVotes": "135050",
+        "noPercent": "52.1"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "66764",
+        "yesPercent": "32.2",
+        "noVotes": "140801",
+        "noPercent": "67.8"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "10091",
+        "yesPercent": "25.0",
+        "noVotes": "30295",
+        "noPercent": "75.0"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "5069",
+        "yesPercent": "19.1",
+        "noVotes": "21477",
+        "noPercent": "80.9"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "1869",
+        "yesPercent": "30.3",
+        "noVotes": "4302",
+        "noPercent": "69.7"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "40797",
+        "yesPercent": "28.5",
+        "noVotes": "102452",
+        "noPercent": "71.5"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "6965",
+        "yesPercent": "23.6",
+        "noVotes": "22549",
+        "noPercent": "76.4"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "169523",
+        "yesPercent": "40.9",
+        "noVotes": "245357",
+        "noPercent": "59.1"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "35761",
+        "yesPercent": "48.2",
+        "noVotes": "38504",
+        "noPercent": "51.8"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "17-year-old Primary Voting Rights",
+        "Number": "18",
+        "yesVotes": "6779",
+        "yesPercent": "25.2",
+        "noVotes": "20102",
+        "noPercent": "74.8"
+      }
+    ]
+  }
+}

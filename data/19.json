@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "8388756",
+        "yesPercent": "51.1",
+        "noVotes": "8039483",
+        "noPercent": "48.9"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "422417",
+        "yesPercent": "57.8",
+        "noVotes": "308970",
+        "noPercent": "42.2"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "410",
+        "yesPercent": "58.2",
+        "noVotes": "295",
+        "noPercent": "41.8"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "8073",
+        "yesPercent": "37.4",
+        "noVotes": "13533",
+        "noPercent": "62.6"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "45047",
+        "yesPercent": "46.7",
+        "noVotes": "51387",
+        "noPercent": "53.3"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "10301",
+        "yesPercent": "39.9",
+        "noVotes": "15533",
+        "noPercent": "60.1"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "3216",
+        "yesPercent": "42.0",
+        "noVotes": "4443",
+        "noPercent": "58.0"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "316353",
+        "yesPercent": "57.6",
+        "noVotes": "233332",
+        "noPercent": "42.4"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "4458",
+        "yesPercent": "40.3",
+        "noVotes": "6594",
+        "noPercent": "59.7"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "46524",
+        "yesPercent": "41.7",
+        "noVotes": "64990",
+        "noPercent": "58.3"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "170485",
+        "yesPercent": "49.2",
+        "noVotes": "176044",
+        "noPercent": "50.8"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "3943",
+        "yesPercent": "37.4",
+        "noVotes": "6588",
+        "noPercent": "62.6"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "27138",
+        "yesPercent": "50.1",
+        "noVotes": "27026",
+        "noPercent": "49.9"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "26551",
+        "yesPercent": "54.0",
+        "noVotes": "22576",
+        "noPercent": "46.0"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "3939",
+        "yesPercent": "43.7",
+        "noVotes": "5083",
+        "noPercent": "56.3"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "118161",
+        "yesPercent": "42.6",
+        "noVotes": "159488",
+        "noPercent": "57.4"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "17612",
+        "yesPercent": "43.0",
+        "noVotes": "23331",
+        "noPercent": "57.0"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "6335",
+        "yesPercent": "58.8",
+        "noVotes": "4445",
+        "noPercent": "41.2"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "3647",
+        "yesPercent": "32.1",
+        "noVotes": "7723",
+        "noPercent": "67.9"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "1994533",
+        "yesPercent": "50.1",
+        "noVotes": "1988082",
+        "noPercent": "49.9"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "21377",
+        "yesPercent": "41.9",
+        "noVotes": "29672",
+        "noPercent": "58.1"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "79842",
+        "yesPercent": "55.1",
+        "noVotes": "65099",
+        "noPercent": "44.9"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "3942",
+        "yesPercent": "39.5",
+        "noVotes": "6040",
+        "noPercent": "60.5"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "14144",
+        "yesPercent": "58.2",
+        "noVotes": "10149",
+        "noPercent": "41.8"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "41948",
+        "yesPercent": "48.8",
+        "noVotes": "43977",
+        "noPercent": "51.2"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "1246",
+        "yesPercent": "33.8",
+        "noVotes": "2441",
+        "noPercent": "66.2"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "2970",
+        "yesPercent": "46.7",
+        "noVotes": "3383",
+        "noPercent": "53.3"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "90227",
+        "yesPercent": "57.1",
+        "noVotes": "67818",
+        "noPercent": "42.9"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "36020",
+        "yesPercent": "54.9",
+        "noVotes": "29609",
+        "noPercent": "45.1"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "28568",
+        "yesPercent": "46.5",
+        "noVotes": "32846",
+        "noPercent": "53.5"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "681409",
+        "yesPercent": "46.7",
+        "noVotes": "778810",
+        "noPercent": "53.3"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "99316",
+        "yesPercent": "45.6",
+        "noVotes": "118644",
+        "noPercent": "54.4"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "4550",
+        "yesPercent": "42.9",
+        "noVotes": "6068",
+        "noPercent": "57.1"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "460602",
+        "yesPercent": "49.3",
+        "noVotes": "473983",
+        "noPercent": "50.7"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "351728",
+        "yesPercent": "51.7",
+        "noVotes": "328401",
+        "noPercent": "48.3"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "15100",
+        "yesPercent": "54.3",
+        "noVotes": "12698",
+        "noPercent": "45.7"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "393078",
+        "yesPercent": "50.1",
+        "noVotes": "390732",
+        "noPercent": "49.9"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "810980",
+        "yesPercent": "53.1",
+        "noVotes": "715743",
+        "noPercent": "46.9"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "252578",
+        "yesPercent": "60.2",
+        "noVotes": "167077",
+        "noPercent": "39.8"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "135150",
+        "yesPercent": "51.5",
+        "noVotes": "127476",
+        "noPercent": "48.5"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "65419",
+        "yesPercent": "43.6",
+        "noVotes": "84495",
+        "noPercent": "56.4"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "198117",
+        "yesPercent": "56.4",
+        "noVotes": "152905",
+        "noPercent": "43.6"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "85889",
+        "yesPercent": "46.0",
+        "noVotes": "100753",
+        "noPercent": "54.0"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "446321",
+        "yesPercent": "55.6",
+        "noVotes": "356387",
+        "noPercent": "44.4"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "76229",
+        "yesPercent": "55.5",
+        "noVotes": "61158",
+        "noPercent": "44.5"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "33677",
+        "yesPercent": "39.0",
+        "noVotes": "52752",
+        "noPercent": "61.0"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "844",
+        "yesPercent": "45.2",
+        "noVotes": "1023",
+        "noPercent": "54.8"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "9681",
+        "yesPercent": "43.2",
+        "noVotes": "12725",
+        "noPercent": "56.8"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "114204",
+        "yesPercent": "57.4",
+        "noVotes": "84833",
+        "noPercent": "42.6"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "142115",
+        "yesPercent": "56.0",
+        "noVotes": "111570",
+        "noPercent": "44.0"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "101452",
+        "yesPercent": "49.4",
+        "noVotes": "103939",
+        "noPercent": "50.6"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "17608",
+        "yesPercent": "44.4",
+        "noVotes": "22014",
+        "noPercent": "55.6"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "9420",
+        "yesPercent": "36.2",
+        "noVotes": "16618",
+        "noPercent": "63.8"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "2613",
+        "yesPercent": "43.4",
+        "noVotes": "3402",
+        "noPercent": "56.6"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "62737",
+        "yesPercent": "44.6",
+        "noVotes": "77874",
+        "noPercent": "55.4"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "11836",
+        "yesPercent": "41.0",
+        "noVotes": "17005",
+        "noPercent": "59.0"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "204841",
+        "yesPercent": "50.3",
+        "noVotes": "202630",
+        "noPercent": "49.7"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "40297",
+        "yesPercent": "55.5",
+        "noVotes": "32297",
+        "noPercent": "44.5"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Changes Certain Property Tax Rules",
+        "Number": "19",
+        "yesVotes": "11538",
+        "yesPercent": "43.5",
+        "noVotes": "14974",
+        "noPercent": "56.5"
+      }
+    ]
+  }
+}

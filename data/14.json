@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "8431324",
+        "yesPercent": "51.0",
+        "noVotes": "8085381",
+        "noPercent": "49.0"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "450188",
+        "yesPercent": "60.7",
+        "noVotes": "291381",
+        "noPercent": "39.3"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "409",
+        "yesPercent": "57.4",
+        "noVotes": "303",
+        "noPercent": "42.6"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "7346",
+        "yesPercent": "33.7",
+        "noVotes": "14468",
+        "noPercent": "66.3"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "41613",
+        "yesPercent": "42.8",
+        "noVotes": "55606",
+        "noPercent": "57.2"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "9149",
+        "yesPercent": "35.2",
+        "noVotes": "16842",
+        "noPercent": "64.8"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "2831",
+        "yesPercent": "36.7",
+        "noVotes": "4891",
+        "noPercent": "63.3"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "312699",
+        "yesPercent": "56.3",
+        "noVotes": "242253",
+        "noPercent": "43.7"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "4003",
+        "yesPercent": "35.9",
+        "noVotes": "7153",
+        "noPercent": "64.1"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "42985",
+        "yesPercent": "38.2",
+        "noVotes": "69520",
+        "noPercent": "61.8"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "163601",
+        "yesPercent": "46.7",
+        "noVotes": "186584",
+        "noPercent": "53.3"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "3466",
+        "yesPercent": "32.4",
+        "noVotes": "7221",
+        "noPercent": "67.6"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "26678",
+        "yesPercent": "48.8",
+        "noVotes": "27938",
+        "noPercent": "51.2"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "27563",
+        "yesPercent": "55.7",
+        "noVotes": "21918",
+        "noPercent": "44.3"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "3729",
+        "yesPercent": "40.8",
+        "noVotes": "5408",
+        "noPercent": "59.2"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "116498",
+        "yesPercent": "41.9",
+        "noVotes": "161791",
+        "noPercent": "58.1"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "16053",
+        "yesPercent": "38.9",
+        "noVotes": "25201",
+        "noPercent": "61.1"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "5415",
+        "yesPercent": "50.1",
+        "noVotes": "5383",
+        "noPercent": "49.9"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "2831",
+        "yesPercent": "24.6",
+        "noVotes": "8669",
+        "noPercent": "75.4"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "2117070",
+        "yesPercent": "53.1",
+        "noVotes": "1866639",
+        "noPercent": "46.9"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "19954",
+        "yesPercent": "38.5",
+        "noVotes": "31857",
+        "noPercent": "61.5"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "83028",
+        "yesPercent": "57.1",
+        "noVotes": "62293",
+        "noPercent": "42.9"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "3468",
+        "yesPercent": "34.4",
+        "noVotes": "6621",
+        "noPercent": "65.6"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "13749",
+        "yesPercent": "56.4",
+        "noVotes": "10645",
+        "noPercent": "43.6"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "42033",
+        "yesPercent": "48.7",
+        "noVotes": "44280",
+        "noPercent": "51.3"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "998",
+        "yesPercent": "26.8",
+        "noVotes": "2727",
+        "noPercent": "73.2"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "3026",
+        "yesPercent": "47.2",
+        "noVotes": "3384",
+        "noPercent": "52.8"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "89141",
+        "yesPercent": "56.2",
+        "noVotes": "69420",
+        "noPercent": "43.8"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "34766",
+        "yesPercent": "52.8",
+        "noVotes": "31123",
+        "noPercent": "47.2"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "26937",
+        "yesPercent": "43.8",
+        "noVotes": "34606",
+        "noPercent": "56.2"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "676615",
+        "yesPercent": "46.0",
+        "noVotes": "794787",
+        "noPercent": "54.0"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "87618",
+        "yesPercent": "39.9",
+        "noVotes": "131746",
+        "noPercent": "60.1"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "3682",
+        "yesPercent": "34.5",
+        "noVotes": "7005",
+        "noPercent": "65.5"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "455028",
+        "yesPercent": "48.5",
+        "noVotes": "484102",
+        "noPercent": "51.5"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "351848",
+        "yesPercent": "51.5",
+        "noVotes": "331828",
+        "noPercent": "48.5"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "14213",
+        "yesPercent": "51.3",
+        "noVotes": "13515",
+        "noPercent": "48.7"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "379768",
+        "yesPercent": "48.5",
+        "noVotes": "403875",
+        "noPercent": "51.5"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "812277",
+        "yesPercent": "52.6",
+        "noVotes": "732585",
+        "noPercent": "47.4"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "235604",
+        "yesPercent": "55.6",
+        "noVotes": "188470",
+        "noPercent": "44.4"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "127600",
+        "yesPercent": "48.5",
+        "noVotes": "135586",
+        "noPercent": "51.5"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "66006",
+        "yesPercent": "43.7",
+        "noVotes": "85106",
+        "noPercent": "56.3"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "204949",
+        "yesPercent": "58.3",
+        "noVotes": "146617",
+        "noPercent": "41.7"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "88883",
+        "yesPercent": "47.2",
+        "noVotes": "99560",
+        "noPercent": "52.8"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "453154",
+        "yesPercent": "56.0",
+        "noVotes": "356276",
+        "noPercent": "44.0"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "78311",
+        "yesPercent": "56.9",
+        "noVotes": "59365",
+        "noPercent": "43.1"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "26692",
+        "yesPercent": "30.4",
+        "noVotes": "61002",
+        "noPercent": "69.6"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "700",
+        "yesPercent": "37.3",
+        "noVotes": "1176",
+        "noPercent": "62.7"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "8053",
+        "yesPercent": "35.5",
+        "noVotes": "14647",
+        "noPercent": "64.5"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "103709",
+        "yesPercent": "52.4",
+        "noVotes": "94205",
+        "noPercent": "47.6"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "138215",
+        "yesPercent": "54.2",
+        "noVotes": "116731",
+        "noPercent": "45.8"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "95972",
+        "yesPercent": "46.5",
+        "noVotes": "110253",
+        "noPercent": "53.5"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "14966",
+        "yesPercent": "37.5",
+        "noVotes": "24903",
+        "noPercent": "62.5"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "7958",
+        "yesPercent": "30.4",
+        "noVotes": "18246",
+        "noPercent": "69.6"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "2266",
+        "yesPercent": "37.8",
+        "noVotes": "3732",
+        "noPercent": "62.2"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "59112",
+        "yesPercent": "41.6",
+        "noVotes": "83054",
+        "noPercent": "58.4"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "10537",
+        "yesPercent": "36.1",
+        "noVotes": "18630",
+        "noPercent": "63.9"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "205857",
+        "yesPercent": "50.3",
+        "noVotes": "203083",
+        "noPercent": "49.7"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "40449",
+        "yesPercent": "55.4",
+        "noVotes": "32586",
+        "noPercent": "44.6"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Bonds to Continue Stem Cell Research",
+        "Number": "14",
+        "yesVotes": "10055",
+        "yesPercent": "37.7",
+        "noVotes": "16585",
+        "noPercent": "62.3"
+      }
+    ]
+  }
+}

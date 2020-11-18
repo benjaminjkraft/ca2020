@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "8060944",
+        "yesPercent": "48.0",
+        "noVotes": "8737100",
+        "noPercent": "52.0"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "491374",
+        "yesPercent": "64.9",
+        "noVotes": "265556",
+        "noPercent": "35.1"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "400",
+        "yesPercent": "55.9",
+        "noVotes": "316",
+        "noPercent": "44.1"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "5696",
+        "yesPercent": "25.8",
+        "noVotes": "16359",
+        "noPercent": "74.2"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "37428",
+        "yesPercent": "38.0",
+        "noVotes": "61194",
+        "noPercent": "62.0"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "7086",
+        "yesPercent": "26.9",
+        "noVotes": "19224",
+        "noPercent": "73.1"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "2336",
+        "yesPercent": "30.0",
+        "noVotes": "5462",
+        "noPercent": "70.0"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "307079",
+        "yesPercent": "54.6",
+        "noVotes": "254940",
+        "noPercent": "45.4"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "4032",
+        "yesPercent": "35.7",
+        "noVotes": "7257",
+        "noPercent": "64.3"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "35834",
+        "yesPercent": "31.4",
+        "noVotes": "78440",
+        "noPercent": "68.6"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "144765",
+        "yesPercent": "40.9",
+        "noVotes": "209441",
+        "noPercent": "59.1"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "2693",
+        "yesPercent": "25.0",
+        "noVotes": "8078",
+        "noPercent": "75.0"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "30052",
+        "yesPercent": "54.1",
+        "noVotes": "25524",
+        "noPercent": "45.9"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "25314",
+        "yesPercent": "50.7",
+        "noVotes": "24607",
+        "noPercent": "49.3"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "3657",
+        "yesPercent": "39.3",
+        "noVotes": "5638",
+        "noPercent": "60.7"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "97834",
+        "yesPercent": "34.7",
+        "noVotes": "184225",
+        "noPercent": "65.3"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "13983",
+        "yesPercent": "33.7",
+        "noVotes": "27483",
+        "noPercent": "66.3"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "5132",
+        "yesPercent": "47.0",
+        "noVotes": "5786",
+        "noPercent": "53.0"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "2463",
+        "yesPercent": "21.2",
+        "noVotes": "9134",
+        "noPercent": "78.8"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "2183166",
+        "yesPercent": "53.5",
+        "noVotes": "1896757",
+        "noPercent": "46.5"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "16709",
+        "yesPercent": "31.9",
+        "noVotes": "35681",
+        "noPercent": "68.1"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "91458",
+        "yesPercent": "61.5",
+        "noVotes": "57262",
+        "noPercent": "38.5"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "3134",
+        "yesPercent": "30.7",
+        "noVotes": "7079",
+        "noPercent": "69.3"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "13864",
+        "yesPercent": "55.9",
+        "noVotes": "10932",
+        "noPercent": "44.1"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "34178",
+        "yesPercent": "39.2",
+        "noVotes": "52932",
+        "noPercent": "60.8"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "868",
+        "yesPercent": "23.1",
+        "noVotes": "2895",
+        "noPercent": "76.9"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "2988",
+        "yesPercent": "45.8",
+        "noVotes": "3535",
+        "noPercent": "54.2"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "82257",
+        "yesPercent": "51.3",
+        "noVotes": "78033",
+        "noPercent": "48.7"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "32697",
+        "yesPercent": "48.9",
+        "noVotes": "34169",
+        "noPercent": "51.1"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "25868",
+        "yesPercent": "41.3",
+        "noVotes": "36788",
+        "noPercent": "58.7"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "589570",
+        "yesPercent": "39.5",
+        "noVotes": "903573",
+        "noPercent": "60.5"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "73107",
+        "yesPercent": "32.9",
+        "noVotes": "149413",
+        "noPercent": "67.1"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "3392",
+        "yesPercent": "31.4",
+        "noVotes": "7420",
+        "noPercent": "68.6"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "378547",
+        "yesPercent": "40.0",
+        "noVotes": "566645",
+        "noPercent": "60.0"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "316578",
+        "yesPercent": "45.8",
+        "noVotes": "375149",
+        "noPercent": "54.2"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "11961",
+        "yesPercent": "42.7",
+        "noVotes": "16052",
+        "noPercent": "57.3"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "322631",
+        "yesPercent": "40.6",
+        "noVotes": "471658",
+        "noPercent": "59.4"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "690878",
+        "yesPercent": "44.0",
+        "noVotes": "877828",
+        "noPercent": "56.0"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "306562",
+        "yesPercent": "70.9",
+        "noVotes": "125770",
+        "noPercent": "29.1"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "107361",
+        "yesPercent": "40.1",
+        "noVotes": "160238",
+        "noPercent": "59.9"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "59179",
+        "yesPercent": "38.4",
+        "noVotes": "95036",
+        "noPercent": "61.6"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "210497",
+        "yesPercent": "58.6",
+        "noVotes": "148946",
+        "noPercent": "41.4"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "91139",
+        "yesPercent": "47.6",
+        "noVotes": "100334",
+        "noPercent": "52.4"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "457623",
+        "yesPercent": "55.6",
+        "noVotes": "365894",
+        "noPercent": "44.4"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "82258",
+        "yesPercent": "58.3",
+        "noVotes": "58717",
+        "noPercent": "41.7"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "23360",
+        "yesPercent": "26.4",
+        "noVotes": "65195",
+        "noPercent": "73.6"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "604",
+        "yesPercent": "31.6",
+        "noVotes": "1305",
+        "noPercent": "68.4"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "8223",
+        "yesPercent": "35.7",
+        "noVotes": "14839",
+        "noPercent": "64.3"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "98373",
+        "yesPercent": "48.7",
+        "noVotes": "103428",
+        "noPercent": "51.3"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "138878",
+        "yesPercent": "53.6",
+        "noVotes": "120449",
+        "noPercent": "46.4"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "77845",
+        "yesPercent": "37.4",
+        "noVotes": "130251",
+        "noPercent": "62.6"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "12045",
+        "yesPercent": "29.7",
+        "noVotes": "28464",
+        "noPercent": "70.3"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "6397",
+        "yesPercent": "24.0",
+        "noVotes": "20208",
+        "noPercent": "76.0"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "2160",
+        "yesPercent": "35.2",
+        "noVotes": "3977",
+        "noPercent": "64.8"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "52502",
+        "yesPercent": "36.7",
+        "noVotes": "90709",
+        "noPercent": "63.3"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "8780",
+        "yesPercent": "29.7",
+        "noVotes": "20738",
+        "noPercent": "70.3"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "176785",
+        "yesPercent": "42.6",
+        "noVotes": "238470",
+        "noPercent": "57.4"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "41215",
+        "yesPercent": "55.6",
+        "noVotes": "32923",
+        "noPercent": "44.4"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Property Tax to Fund Schools, Government Services",
+        "Number": "15",
+        "yesVotes": "8149",
+        "yesPercent": "30.3",
+        "noVotes": "18744",
+        "noPercent": "69.7"
+      }
+    ]
+  }
+}

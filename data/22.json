@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "9787296",
+        "yesPercent": "58.7",
+        "noVotes": "6899850",
+        "noPercent": "41.3"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "338290",
+        "yesPercent": "45.1",
+        "noVotes": "412112",
+        "noPercent": "54.9"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "309",
+        "yesPercent": "43.9",
+        "noVotes": "395",
+        "noPercent": "56.1"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "14629",
+        "yesPercent": "67.2",
+        "noVotes": "7132",
+        "noPercent": "32.8"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "61686",
+        "yesPercent": "63.2",
+        "noVotes": "35966",
+        "noPercent": "36.8"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "17421",
+        "yesPercent": "67.2",
+        "noVotes": "8518",
+        "noPercent": "32.8"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "5256",
+        "yesPercent": "68.0",
+        "noVotes": "2479",
+        "noPercent": "32.0"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "296693",
+        "yesPercent": "53.8",
+        "noVotes": "254686",
+        "noPercent": "46.2"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "6417",
+        "yesPercent": "58.0",
+        "noVotes": "4646",
+        "noPercent": "42.0"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "75848",
+        "yesPercent": "67.4",
+        "noVotes": "36711",
+        "noPercent": "32.6"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "230005",
+        "yesPercent": "65.4",
+        "noVotes": "121939",
+        "noPercent": "34.6"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "7477",
+        "yesPercent": "70.0",
+        "noVotes": "3211",
+        "noPercent": "30.0"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "24881",
+        "yesPercent": "45.7",
+        "noVotes": "29596",
+        "noPercent": "54.3"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "28751",
+        "yesPercent": "58.0",
+        "noVotes": "20846",
+        "noPercent": "42.0"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "5324",
+        "yesPercent": "58.3",
+        "noVotes": "3801",
+        "noPercent": "41.7"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "189800",
+        "yesPercent": "67.6",
+        "noVotes": "91096",
+        "noPercent": "32.4"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "28002",
+        "yesPercent": "67.7",
+        "noVotes": "13332",
+        "noPercent": "32.3"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "5915",
+        "yesPercent": "54.9",
+        "noVotes": "4860",
+        "noPercent": "45.1"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "8029",
+        "yesPercent": "69.8",
+        "noVotes": "3472",
+        "noPercent": "30.2"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "2247890",
+        "yesPercent": "55.3",
+        "noVotes": "1815375",
+        "noPercent": "44.7"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "35288",
+        "yesPercent": "68.1",
+        "noVotes": "16560",
+        "noPercent": "31.9"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "68271",
+        "yesPercent": "46.7",
+        "noVotes": "78050",
+        "noPercent": "53.3"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "6397",
+        "yesPercent": "63.7",
+        "noVotes": "3638",
+        "noPercent": "36.3"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "10905",
+        "yesPercent": "44.8",
+        "noVotes": "13416",
+        "noPercent": "55.2"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "53746",
+        "yesPercent": "62.5",
+        "noVotes": "32200",
+        "noPercent": "37.5"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "2495",
+        "yesPercent": "67.2",
+        "noVotes": "1220",
+        "noPercent": "32.8"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "3472",
+        "yesPercent": "54.4",
+        "noVotes": "2914",
+        "noPercent": "45.6"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "88309",
+        "yesPercent": "55.4",
+        "noVotes": "71183",
+        "noPercent": "44.6"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "37441",
+        "yesPercent": "56.7",
+        "noVotes": "28648",
+        "noPercent": "43.3"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "37283",
+        "yesPercent": "60.4",
+        "noVotes": "24462",
+        "noPercent": "39.6"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "979371",
+        "yesPercent": "65.9",
+        "noVotes": "506196",
+        "noPercent": "34.1"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "153426",
+        "yesPercent": "69.5",
+        "noVotes": "67293",
+        "noPercent": "30.5"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "6775",
+        "yesPercent": "63.6",
+        "noVotes": "3873",
+        "noPercent": "36.4"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "620463",
+        "yesPercent": "65.5",
+        "noVotes": "326216",
+        "noPercent": "34.5"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "433259",
+        "yesPercent": "62.7",
+        "noVotes": "257626",
+        "noPercent": "37.3"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "15745",
+        "yesPercent": "56.6",
+        "noVotes": "12085",
+        "noPercent": "43.4"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "507493",
+        "yesPercent": "63.9",
+        "noVotes": "286696",
+        "noPercent": "36.1"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "997042",
+        "yesPercent": "64.2",
+        "noVotes": "555933",
+        "noPercent": "35.8"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "172644",
+        "yesPercent": "40.5",
+        "noVotes": "253791",
+        "noPercent": "59.5"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "167622",
+        "yesPercent": "62.9",
+        "noVotes": "98988",
+        "noPercent": "37.1"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "95093",
+        "yesPercent": "62.8",
+        "noVotes": "56226",
+        "noPercent": "37.2"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "177642",
+        "yesPercent": "49.7",
+        "noVotes": "179631",
+        "noPercent": "50.3"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "103213",
+        "yesPercent": "54.6",
+        "noVotes": "85929",
+        "noPercent": "45.4"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "435549",
+        "yesPercent": "53.2",
+        "noVotes": "383785",
+        "noPercent": "46.8"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "65017",
+        "yesPercent": "46.9",
+        "noVotes": "73674",
+        "noPercent": "53.1"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "61892",
+        "yesPercent": "70.3",
+        "noVotes": "26102",
+        "noPercent": "29.7"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "1120",
+        "yesPercent": "59.6",
+        "noVotes": "758",
+        "noPercent": "40.4"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "13196",
+        "yesPercent": "58.8",
+        "noVotes": "9259",
+        "noPercent": "41.2"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "116807",
+        "yesPercent": "58.0",
+        "noVotes": "84595",
+        "noPercent": "42.0"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "128158",
+        "yesPercent": "50.2",
+        "noVotes": "127314",
+        "noPercent": "49.8"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "132336",
+        "yesPercent": "64.1",
+        "noVotes": "74126",
+        "noPercent": "35.9"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "28459",
+        "yesPercent": "70.5",
+        "noVotes": "11917",
+        "noPercent": "29.5"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "18131",
+        "yesPercent": "68.9",
+        "noVotes": "8191",
+        "noPercent": "31.1"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "3677",
+        "yesPercent": "61.1",
+        "noVotes": "2338",
+        "noPercent": "38.9"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "95731",
+        "yesPercent": "67.5",
+        "noVotes": "46071",
+        "noPercent": "32.5"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "19236",
+        "yesPercent": "66.2",
+        "noVotes": "9833",
+        "noPercent": "33.8"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "245965",
+        "yesPercent": "59.8",
+        "noVotes": "165212",
+        "noPercent": "40.2"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "37928",
+        "yesPercent": "51.7",
+        "noVotes": "35396",
+        "noPercent": "48.3"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "App-Based Drivers and Employee Benefits",
+        "Number": "22",
+        "yesVotes": "18076",
+        "yesPercent": "68.4",
+        "noVotes": "8332",
+        "noPercent": "31.6"
+      }
+    ]
+  }
+}

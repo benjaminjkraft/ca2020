@@ -1,0 +1,3247 @@
+{
+  "statewide": {
+    "raceTitle": "President - Statewide Results",
+    "Reporting": "100% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "10,933,242",
+        "Percent": "63.7",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "5,871,037",
+        "Percent": "34.2",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "58,283",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "79,109",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "183,392",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "49,465",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "President - Alameda County Results",
+    "Reporting": "100% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "616,180",
+        "Percent": "80.2",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "135,925",
+        "Percent": "17.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "2,394",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "4,655",
+        "Percent": "0.6",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "6,276",
+        "Percent": "0.8",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "2,531",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "President - Alpine County Results",
+    "Reporting": "100% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "473",
+        "Percent": "64.7",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "238",
+        "Percent": "32.6",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "0",
+        "Percent": "0.0",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "4",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "14",
+        "Percent": "1.9",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "2",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "President - Amador County Results",
+    "Reporting": "100% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "8,152",
+        "Percent": "36.6",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "13,584",
+        "Percent": "60.9",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "64",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "110",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "349",
+        "Percent": "1.6",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "41",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "President - Butte County Results",
+    "Reporting": "100% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "49,402",
+        "Percent": "49.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "47,568",
+        "Percent": "47.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "312",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "495",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "1,728",
+        "Percent": "1.7",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "275",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "President - Calaveras County Results",
+    "Reporting": "100% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "9,845",
+        "Percent": "36.8",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "16,287",
+        "Percent": "61.0",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "69",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "120",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "352",
+        "Percent": "1.3",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "44",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "President - Colusa County Results",
+    "Reporting": "100% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "3,213",
+        "Percent": "40.6",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "4,533",
+        "Percent": "57.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "29",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "25",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "81",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "27",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "President - Contra Costa County Results",
+    "Reporting": "100% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "407,639",
+        "Percent": "71.8",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "148,623",
+        "Percent": "26.2",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "1,868",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "2,551",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "5,970",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "1,231",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "President - Del Norte County Results",
+    "Reporting": "100% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "4,656",
+        "Percent": "40.8",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "6,434",
+        "Percent": "56.4",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "53",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "78",
+        "Percent": "0.7",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "149",
+        "Percent": "1.3",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "33",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "President - El Dorado County Results",
+    "Reporting": "100% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "51,473",
+        "Percent": "44.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "61,614",
+        "Percent": "53.2",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "237",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "457",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "1,865",
+        "Percent": "1.6",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "107",
+        "Percent": "0.1",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "President - Fresno County Results",
+    "Reporting": "100% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "190,403",
+        "Percent": "52.9",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "162,438",
+        "Percent": "45.1",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "1,111",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "1,454",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "3,963",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "652",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "President - Glenn County Results",
+    "Reporting": "100% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "3,815",
+        "Percent": "35.0",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "6,854",
+        "Percent": "62.9",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "37",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "32",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "120",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "32",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "President - Humboldt County Results",
+    "Reporting": "100% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "37,367",
+        "Percent": "66.2",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "17,474",
+        "Percent": "31.0",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "179",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "443",
+        "Percent": "0.8",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "774",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "211",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "President - Imperial County Results",
+    "Reporting": "100% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "31,545",
+        "Percent": "62.2",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "18,129",
+        "Percent": "35.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "251",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "218",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "339",
+        "Percent": "0.7",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "243",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "President - Inyo County Results",
+    "Reporting": "100% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "4,623",
+        "Percent": "48.9",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "4,611",
+        "Percent": "48.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "31",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "45",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "128",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "22",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "President - Kern County Results",
+    "Reporting": "100% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "124,973",
+        "Percent": "43.9",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "152,778",
+        "Percent": "53.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "1,135",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "1,021",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "3,698",
+        "Percent": "1.3",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "982",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "President - Kings County Results",
+    "Reporting": "100% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "17,729",
+        "Percent": "42.3",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "23,169",
+        "Percent": "55.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "175",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "120",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "575",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "165",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "President - Lake County Results",
+    "Reporting": "100% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "6,874",
+        "Percent": "62.3",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "3,955",
+        "Percent": "35.8",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "26",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "71",
+        "Percent": "0.6",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "94",
+        "Percent": "0.9",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "18",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "President - Lassen County Results",
+    "Reporting": "100% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "2,772",
+        "Percent": "23.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "8,798",
+        "Percent": "74.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "25",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "31",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "137",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "16",
+        "Percent": "0.1",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "President - Los Angeles County Results",
+    "Reporting": "100% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "3,001,862",
+        "Percent": "71.1",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "1,132,647",
+        "Percent": "26.8",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "15,666",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "21,400",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "35,080",
+        "Percent": "0.8",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "15,663",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "President - Madera County Results",
+    "Reporting": "100% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "22,814",
+        "Percent": "43.0",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "29,065",
+        "Percent": "54.8",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "170",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "214",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "613",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "160",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "President - Marin County Results",
+    "Reporting": "100% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "126,652",
+        "Percent": "82.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "24,007",
+        "Percent": "15.6",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "366",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "705",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "1,494",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "251",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "President - Mariposa County Results",
+    "Reporting": "100% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "4,088",
+        "Percent": "39.8",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "5,950",
+        "Percent": "57.9",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "26",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "39",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "155",
+        "Percent": "1.5",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "22",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "President - Mendocino County Results",
+    "Reporting": "100% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "18,303",
+        "Percent": "72.7",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "6,312",
+        "Percent": "25.1",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "39",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "179",
+        "Percent": "0.7",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "248",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "90",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "President - Merced County Results",
+    "Reporting": "100% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "47,861",
+        "Percent": "54.1",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "38,568",
+        "Percent": "43.6",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "377",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "382",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "926",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "419",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "President - Modoc County Results",
+    "Reporting": "100% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "1,063",
+        "Percent": "27.9",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "2,675",
+        "Percent": "70.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "12",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "14",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "31",
+        "Percent": "0.8",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "10",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "President - Mono County Results",
+    "Reporting": "100% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "3,998",
+        "Percent": "59.6",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "2,504",
+        "Percent": "37.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "25",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "42",
+        "Percent": "0.6",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "126",
+        "Percent": "1.9",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "18",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "President - Monterey County Results",
+    "Reporting": "100% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "113,893",
+        "Percent": "69.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "46,274",
+        "Percent": "28.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "566",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "749",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "1,819",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "496",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "President - Napa County Results",
+    "Reporting": "100% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "46,962",
+        "Percent": "69.2",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "19,388",
+        "Percent": "28.6",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "217",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "292",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "844",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "144",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "President - Nevada County Results",
+    "Reporting": "100% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "35,773",
+        "Percent": "56.2",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "26,316",
+        "Percent": "41.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "185",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "331",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "902",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "138",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "President - Orange County Results",
+    "Reporting": "100% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "813,132",
+        "Percent": "53.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "675,855",
+        "Percent": "44.5",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "4,639",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "5,813",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "17,306",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "3,429",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "President - Placer County Results",
+    "Reporting": "100% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "103,108",
+        "Percent": "45.6",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "117,426",
+        "Percent": "52.0",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "559",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "743",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "3,752",
+        "Percent": "1.7",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "321",
+        "Percent": "0.1",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "President - Plumas County Results",
+    "Reporting": "100% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "4,465",
+        "Percent": "40.8",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "6,247",
+        "Percent": "57.1",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "30",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "38",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "142",
+        "Percent": "1.3",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "25",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "President - Riverside County Results",
+    "Reporting": "100% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "511,967",
+        "Percent": "53.1",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "433,374",
+        "Percent": "45.0",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "3,213",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "3,259",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "9,652",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "2,637",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "President - Sacramento County Results",
+    "Reporting": "100% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "434,512",
+        "Percent": "61.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "253,959",
+        "Percent": "36.0",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "2,558",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "3,207",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "9,620",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "2,345",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "President - San Benito County Results",
+    "Reporting": "100% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "17,315",
+        "Percent": "61.1",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "10,412",
+        "Percent": "36.8",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "83",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "89",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "337",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "81",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "President - San Bernardino County Results",
+    "Reporting": "100% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "439,705",
+        "Percent": "54.3",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "352,781",
+        "Percent": "43.5",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "3,181",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "3,458",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "8,455",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "2,889",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "President - San Diego County Results",
+    "Reporting": "100% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "962,325",
+        "Percent": "60.2",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "598,434",
+        "Percent": "37.5",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "5,287",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "7,393",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "21,307",
+        "Percent": "1.3",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "2,857",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "President - San Francisco County Results",
+    "Reporting": "100% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "377,772",
+        "Percent": "85.3",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "56,329",
+        "Percent": "12.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "1,258",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "2,780",
+        "Percent": "0.6",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "3,293",
+        "Percent": "0.7",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "1,537",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "President - San Joaquin County Results",
+    "Reporting": "100% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "152,056",
+        "Percent": "56.0",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "113,627",
+        "Percent": "41.9",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "1,115",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "1,006",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "2,750",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "870",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "President - San Luis Obispo County Results",
+    "Reporting": "100% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "86,829",
+        "Percent": "55.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "65,907",
+        "Percent": "42.1",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "437",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "769",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "2,352",
+        "Percent": "1.5",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "268",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "President - San Mateo County Results",
+    "Reporting": "100% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "288,333",
+        "Percent": "77.9",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "74,756",
+        "Percent": "20.2",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "1,124",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "1,575",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "3,500",
+        "Percent": "0.9",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "784",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "President - Santa Barbara County Results",
+    "Reporting": "100% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "126,419",
+        "Percent": "65.0",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "63,583",
+        "Percent": "32.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "681",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "889",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "2,317",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "489",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "President - Santa Clara County Results",
+    "Reporting": "100% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "615,258",
+        "Percent": "72.7",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "213,518",
+        "Percent": "25.2",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "2,607",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "4,020",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "9,068",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "2,133",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "President - Santa Cruz County Results",
+    "Reporting": "100% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "113,487",
+        "Percent": "78.9",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "26,688",
+        "Percent": "18.6",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "429",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "1,055",
+        "Percent": "0.7",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "1,688",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "410",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "President - Shasta County Results",
+    "Reporting": "100% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "29,312",
+        "Percent": "32.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "58,886",
+        "Percent": "65.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "264",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "360",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "1,222",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "181",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "President - Sierra County Results",
+    "Reporting": "100% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "730",
+        "Percent": "37.8",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "1,142",
+        "Percent": "59.2",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "12",
+        "Percent": "0.6",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "13",
+        "Percent": "0.7",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "27",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "6",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "President - Siskiyou County Results",
+    "Reporting": "100% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "9,591",
+        "Percent": "40.9",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "13,288",
+        "Percent": "56.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "79",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "116",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "318",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "54",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "President - Solano County Results",
+    "Reporting": "100% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "131,525",
+        "Percent": "64.0",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "69,234",
+        "Percent": "33.7",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "823",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "957",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "2,475",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "626",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "President - Sonoma County Results",
+    "Reporting": "100% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "197,010",
+        "Percent": "74.7",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "60,355",
+        "Percent": "22.9",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "803",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "1,461",
+        "Percent": "0.6",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "3,348",
+        "Percent": "1.3",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "714",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "President - Stanislaus County Results",
+    "Reporting": "100% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "104,323",
+        "Percent": "49.3",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "102,568",
+        "Percent": "48.4",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "910",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "733",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "2,457",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "710",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "President - Sutter County Results",
+    "Reporting": "100% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "16,961",
+        "Percent": "40.7",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "23,864",
+        "Percent": "57.2",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "120",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "131",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "506",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "112",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "President - Tehama County Results",
+    "Reporting": "100% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "8,493",
+        "Percent": "31.7",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "17,739",
+        "Percent": "66.1",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "97",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "80",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "359",
+        "Percent": "1.3",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "58",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "President - Trinity County Results",
+    "Reporting": "100% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "2,848",
+        "Percent": "45.6",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "3,185",
+        "Percent": "50.9",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "27",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "50",
+        "Percent": "0.8",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "117",
+        "Percent": "1.9",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "25",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "President - Tulare County Results",
+    "Reporting": "100% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "65,056",
+        "Percent": "45.0",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "76,315",
+        "Percent": "52.8",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "612",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "464",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "1,474",
+        "Percent": "1.0",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "527",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "President - Tuolumne County Results",
+    "Reporting": "100% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "11,808",
+        "Percent": "39.6",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "17,302",
+        "Percent": "58.0",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "87",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "139",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "426",
+        "Percent": "1.4",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "58",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "President - Ventura County Results",
+    "Reporting": "100% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "250,535",
+        "Percent": "59.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "161,510",
+        "Percent": "38.4",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "1,266",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "1,756",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "5,038",
+        "Percent": "1.2",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "974",
+        "Percent": "0.2",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "President - Yolo County Results",
+    "Reporting": "100% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "53,621",
+        "Percent": "71.5",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "19,825",
+        "Percent": "26.4",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "204",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "363",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "790",
+        "Percent": "1.1",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "220",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "President - Yuba County Results",
+    "Reporting": "100% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "candidates": [
+      {
+        "Name": "Joseph R. Biden",
+        "Party": "Dem",
+        "Votes": "10,343",
+        "Percent": "37.8",
+        "incumbent": false,
+        "color": "058DC7"
+      },
+      {
+        "Name": "Donald J. Trump",
+        "Party": "Rep",
+        "Votes": "16,210",
+        "Percent": "59.3",
+        "incumbent": true,
+        "color": "E38225"
+      },
+      {
+        "Name": "Roque \"Rocky\" De La Fuente Guerra",
+        "Party": "AI",
+        "Votes": "133",
+        "Percent": "0.5",
+        "incumbent": false,
+        "color": "009A09"
+      },
+      {
+        "Name": "Howie Hawkins",
+        "Party": "Grn",
+        "Votes": "115",
+        "Percent": "0.4",
+        "incumbent": false,
+        "color": "6600FF"
+      },
+      {
+        "Name": "Jo Jorgensen",
+        "Party": "Lib",
+        "Votes": "446",
+        "Percent": "1.6",
+        "incumbent": false,
+        "color": "FFFF00"
+      },
+      {
+        "Name": "Gloria La Riva",
+        "Party": "P&F",
+        "Votes": "82",
+        "Percent": "0.3",
+        "incumbent": false,
+        "color": "D1489E"
+      }
+    ]
+  }
+}

@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "9810623",
+        "yesPercent": "58.6",
+        "noVotes": "6944030",
+        "noPercent": "41.4"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "558679",
+        "yesPercent": "73.9",
+        "noVotes": "196878",
+        "noPercent": "26.1"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "464",
+        "yesPercent": "64.4",
+        "noVotes": "256",
+        "noPercent": "35.6"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "7617",
+        "yesPercent": "34.5",
+        "noVotes": "14448",
+        "noPercent": "65.5"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "47006",
+        "yesPercent": "47.6",
+        "noVotes": "51693",
+        "noPercent": "52.4"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "9714",
+        "yesPercent": "36.9",
+        "noVotes": "16587",
+        "noPercent": "63.1"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "2799",
+        "yesPercent": "36.0",
+        "noVotes": "4973",
+        "noPercent": "64.0"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "361180",
+        "yesPercent": "64.8",
+        "noVotes": "196547",
+        "noPercent": "35.2"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "4654",
+        "yesPercent": "41.3",
+        "noVotes": "6626",
+        "noPercent": "58.7"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "46706",
+        "yesPercent": "41.0",
+        "noVotes": "67347",
+        "noPercent": "59.0"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "165158",
+        "yesPercent": "46.7",
+        "noVotes": "188818",
+        "noPercent": "53.3"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "3530",
+        "yesPercent": "33.0",
+        "noVotes": "7169",
+        "noPercent": "67.0"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "34891",
+        "yesPercent": "62.8",
+        "noVotes": "20692",
+        "noPercent": "37.2"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "26159",
+        "yesPercent": "52.6",
+        "noVotes": "23598",
+        "noPercent": "47.4"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "4297",
+        "yesPercent": "46.3",
+        "noVotes": "4989",
+        "noPercent": "53.7"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "113889",
+        "yesPercent": "40.5",
+        "noVotes": "167658",
+        "noPercent": "59.5"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "15657",
+        "yesPercent": "37.8",
+        "noVotes": "25802",
+        "noPercent": "62.2"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "6051",
+        "yesPercent": "55.6",
+        "noVotes": "4837",
+        "noPercent": "44.4"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "2913",
+        "yesPercent": "25.1",
+        "noVotes": "8701",
+        "noPercent": "74.9"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "2666089",
+        "yesPercent": "65.5",
+        "noVotes": "1401773",
+        "noPercent": "34.5"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "20232",
+        "yesPercent": "38.5",
+        "noVotes": "32263",
+        "noPercent": "61.5"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "110814",
+        "yesPercent": "74.6",
+        "noVotes": "37808",
+        "noPercent": "25.4"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "4036",
+        "yesPercent": "39.7",
+        "noVotes": "6132",
+        "noPercent": "60.3"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "16415",
+        "yesPercent": "66.3",
+        "noVotes": "8359",
+        "noPercent": "33.7"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "42185",
+        "yesPercent": "48.6",
+        "noVotes": "44683",
+        "noPercent": "51.4"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "1139",
+        "yesPercent": "30.1",
+        "noVotes": "2646",
+        "noPercent": "69.9"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "3521",
+        "yesPercent": "54.3",
+        "noVotes": "2966",
+        "noPercent": "45.7"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "100326",
+        "yesPercent": "62.7",
+        "noVotes": "59785",
+        "noPercent": "37.3"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "40375",
+        "yesPercent": "60.5",
+        "noVotes": "26388",
+        "noPercent": "39.5"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "33037",
+        "yesPercent": "52.7",
+        "noVotes": "29660",
+        "noPercent": "47.3"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "739508",
+        "yesPercent": "49.8",
+        "noVotes": "746090",
+        "noPercent": "50.2"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "92042",
+        "yesPercent": "41.4",
+        "noVotes": "130066",
+        "noPercent": "58.6"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "4345",
+        "yesPercent": "40.3",
+        "noVotes": "6445",
+        "noPercent": "59.7"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "471191",
+        "yesPercent": "49.9",
+        "noVotes": "472202",
+        "noPercent": "50.1"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "394489",
+        "yesPercent": "56.8",
+        "noVotes": "300317",
+        "noPercent": "43.2"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "15070",
+        "yesPercent": "54.0",
+        "noVotes": "12856",
+        "noPercent": "46.0"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "411181",
+        "yesPercent": "51.8",
+        "noVotes": "382123",
+        "noPercent": "48.2"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "893400",
+        "yesPercent": "57.2",
+        "noVotes": "668830",
+        "noPercent": "42.8"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "337533",
+        "yesPercent": "78.1",
+        "noVotes": "94699",
+        "noPercent": "21.9"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "135279",
+        "yesPercent": "50.7",
+        "noVotes": "131364",
+        "noPercent": "49.3"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "76867",
+        "yesPercent": "50.0",
+        "noVotes": "76986",
+        "noPercent": "50.0"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "240281",
+        "yesPercent": "67.2",
+        "noVotes": "117023",
+        "noPercent": "32.8"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "113368",
+        "yesPercent": "59.3",
+        "noVotes": "77941",
+        "noPercent": "40.7"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "529002",
+        "yesPercent": "64.5",
+        "noVotes": "291656",
+        "noPercent": "35.5"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "101270",
+        "yesPercent": "71.8",
+        "noVotes": "39837",
+        "noPercent": "28.2"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "29869",
+        "yesPercent": "33.8",
+        "noVotes": "58565",
+        "noPercent": "66.2"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "785",
+        "yesPercent": "41.2",
+        "noVotes": "1120",
+        "noPercent": "58.8"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "9973",
+        "yesPercent": "43.4",
+        "noVotes": "13027",
+        "noPercent": "56.6"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "120379",
+        "yesPercent": "59.4",
+        "noVotes": "82352",
+        "noPercent": "40.6"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "172638",
+        "yesPercent": "66.8",
+        "noVotes": "85802",
+        "noPercent": "33.2"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "95909",
+        "yesPercent": "46.4",
+        "noVotes": "110711",
+        "noPercent": "53.6"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "15314",
+        "yesPercent": "38.1",
+        "noVotes": "24917",
+        "noPercent": "61.9"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "8540",
+        "yesPercent": "32.2",
+        "noVotes": "17953",
+        "noPercent": "67.8"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "2968",
+        "yesPercent": "48.1",
+        "noVotes": "3202",
+        "noPercent": "51.9"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "58745",
+        "yesPercent": "41.0",
+        "noVotes": "84449",
+        "noPercent": "59.0"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "11293",
+        "yesPercent": "38.4",
+        "noVotes": "18149",
+        "noPercent": "61.6"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "222317",
+        "yesPercent": "53.7",
+        "noVotes": "191843",
+        "noPercent": "46.3"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "46931",
+        "yesPercent": "63.3",
+        "noVotes": "27208",
+        "noPercent": "36.7"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Restores Right to Vote After Prison Term",
+        "Number": "17",
+        "yesVotes": "10603",
+        "yesPercent": "39.5",
+        "noVotes": "16215",
+        "noPercent": "60.5"
+      }
+    ]
+  }
+}

@@ -1,0 +1,887 @@
+{
+  "statewide": {
+    "raceTitle": "Ballot Measures - Statewide Results",
+    "Reporting": "100.0% (20,497 of 20,497) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "9209666",
+        "yesPercent": "56.2",
+        "noVotes": "7188328",
+        "noPercent": "43.8"
+      }
+    ]
+  },
+  "alameda": {
+    "raceTitle": "Ballot Measures - Alameda Results",
+    "Reporting": "100.0% (521 of 521) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "427083",
+        "yesPercent": "58.0",
+        "noVotes": "309763",
+        "noPercent": "42.0"
+      }
+    ]
+  },
+  "alpine": {
+    "raceTitle": "Ballot Measures - Alpine Results",
+    "Reporting": "100.0% (5 of 5) precincts reporting",
+    "ReportingTime": "November 3, 2020, 11:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "290",
+        "yesPercent": "41.3",
+        "noVotes": "412",
+        "noPercent": "58.7"
+      }
+    ]
+  },
+  "amador": {
+    "raceTitle": "Ballot Measures - Amador Results",
+    "Reporting": "100.0% (30 of 30) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:26 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "8957",
+        "yesPercent": "41.4",
+        "noVotes": "12672",
+        "noPercent": "58.6"
+      }
+    ]
+  },
+  "butte": {
+    "raceTitle": "Ballot Measures - Butte Results",
+    "Reporting": "100.0% (157 of 157) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:49 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "45785",
+        "yesPercent": "47.5",
+        "noVotes": "50596",
+        "noPercent": "52.5"
+      }
+    ]
+  },
+  "calaveras": {
+    "raceTitle": "Ballot Measures - Calaveras Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "10716",
+        "yesPercent": "41.6",
+        "noVotes": "15057",
+        "noPercent": "58.4"
+      }
+    ]
+  },
+  "colusa": {
+    "raceTitle": "Ballot Measures - Colusa Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "3315",
+        "yesPercent": "43.5",
+        "noVotes": "4305",
+        "noPercent": "56.5"
+      }
+    ]
+  },
+  "contra-costa": {
+    "raceTitle": "Ballot Measures - Contra Costa Results",
+    "Reporting": "100.0% (957 of 957) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:37 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "327929",
+        "yesPercent": "59.9",
+        "noVotes": "219466",
+        "noPercent": "40.1"
+      }
+    ]
+  },
+  "del-norte": {
+    "raceTitle": "Ballot Measures - Del Norte Results",
+    "Reporting": "100.0% (18 of 18) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "5176",
+        "yesPercent": "46.8",
+        "noVotes": "5893",
+        "noPercent": "53.2"
+      }
+    ]
+  },
+  "el-dorado": {
+    "raceTitle": "Ballot Measures - El Dorado Results",
+    "Reporting": "100.0% (202 of 202) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:39 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "50173",
+        "yesPercent": "45.0",
+        "noVotes": "61217",
+        "noPercent": "55.0"
+      }
+    ]
+  },
+  "fresno": {
+    "raceTitle": "Ballot Measures - Fresno Results",
+    "Reporting": "100.0% (384 of 384) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "182950",
+        "yesPercent": "52.7",
+        "noVotes": "164088",
+        "noPercent": "47.3"
+      }
+    ]
+  },
+  "glenn": {
+    "raceTitle": "Ballot Measures - Glenn Results",
+    "Reporting": "100.0% (74 of 74) precincts reporting",
+    "ReportingTime": "November 9, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "4540",
+        "yesPercent": "42.7",
+        "noVotes": "6097",
+        "noPercent": "57.3"
+      }
+    ]
+  },
+  "humboldt": {
+    "raceTitle": "Ballot Measures - Humboldt Results",
+    "Reporting": "100.0% (66 of 66) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "28158",
+        "yesPercent": "52.2",
+        "noVotes": "25770",
+        "noPercent": "47.8"
+      }
+    ]
+  },
+  "imperial": {
+    "raceTitle": "Ballot Measures - Imperial Results",
+    "Reporting": "100.0% (218 of 218) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:21 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "30022",
+        "yesPercent": "60.9",
+        "noVotes": "19239",
+        "noPercent": "39.1"
+      }
+    ]
+  },
+  "inyo": {
+    "raceTitle": "Ballot Measures - Inyo Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 13, 2020, 9:34 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "4187",
+        "yesPercent": "46.1",
+        "noVotes": "4890",
+        "noPercent": "53.9"
+      }
+    ]
+  },
+  "kern": {
+    "raceTitle": "Ballot Measures - Kern Results",
+    "Reporting": "100.0% (694 of 694) precincts reporting",
+    "ReportingTime": "November 17, 2020, 7:17 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "134047",
+        "yesPercent": "48.2",
+        "noVotes": "144338",
+        "noPercent": "51.8"
+      }
+    ]
+  },
+  "kings": {
+    "raceTitle": "Ballot Measures - Kings Results",
+    "Reporting": "100.0% (96 of 96) precincts reporting",
+    "ReportingTime": "November 6, 2020, 2:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "18557",
+        "yesPercent": "45.9",
+        "noVotes": "21854",
+        "noPercent": "54.1"
+      }
+    ]
+  },
+  "lake": {
+    "raceTitle": "Ballot Measures - Lake Results",
+    "Reporting": "100.0% (70 of 70) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:54 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "5954",
+        "yesPercent": "55.7",
+        "noVotes": "4726",
+        "noPercent": "44.3"
+      }
+    ]
+  },
+  "lassen": {
+    "raceTitle": "Ballot Measures - Lassen Results",
+    "Reporting": "100.0% (57 of 57) precincts reporting",
+    "ReportingTime": "November 8, 2020, 6:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "4161",
+        "yesPercent": "36.4",
+        "noVotes": "7276",
+        "noPercent": "63.6"
+      }
+    ]
+  },
+  "los-angeles": {
+    "raceTitle": "Ballot Measures - Los Angeles Results",
+    "Reporting": "100.0% (3,383 of 3,383) precincts reporting",
+    "ReportingTime": "November 17, 2020, 2:29 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "2377392",
+        "yesPercent": "59.8",
+        "noVotes": "1598090",
+        "noPercent": "40.2"
+      }
+    ]
+  },
+  "madera": {
+    "raceTitle": "Ballot Measures - Madera Results",
+    "Reporting": "100.0% (72 of 72) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:28 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "23321",
+        "yesPercent": "45.4",
+        "noVotes": "28062",
+        "noPercent": "54.6"
+      }
+    ]
+  },
+  "marin": {
+    "raceTitle": "Ballot Measures - Marin Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:11 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "76310",
+        "yesPercent": "53.2",
+        "noVotes": "67112",
+        "noPercent": "46.8"
+      }
+    ]
+  },
+  "mariposa": {
+    "raceTitle": "Ballot Measures - Mariposa Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:00 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "4055",
+        "yesPercent": "40.6",
+        "noVotes": "5930",
+        "noPercent": "59.4"
+      }
+    ]
+  },
+  "mendocino": {
+    "raceTitle": "Ballot Measures - Mendocino Results",
+    "Reporting": "100.0% (250 of 250) precincts reporting",
+    "ReportingTime": "November 4, 2020, 12:27 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "13661",
+        "yesPercent": "56.8",
+        "noVotes": "10392",
+        "noPercent": "43.2"
+      }
+    ]
+  },
+  "merced": {
+    "raceTitle": "Ballot Measures - Merced Results",
+    "Reporting": "100.0% (268 of 268) precincts reporting",
+    "ReportingTime": "November 12, 2020, 2:01 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "45917",
+        "yesPercent": "54.3",
+        "noVotes": "38625",
+        "noPercent": "45.7"
+      }
+    ]
+  },
+  "modoc": {
+    "raceTitle": "Ballot Measures - Modoc Results",
+    "Reporting": "100.0% (21 of 21) precincts reporting",
+    "ReportingTime": "November 4, 2020, 1:28 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "1329",
+        "yesPercent": "35.9",
+        "noVotes": "2375",
+        "noPercent": "64.1"
+      }
+    ]
+  },
+  "mono": {
+    "raceTitle": "Ballot Measures - Mono Results",
+    "Reporting": "100.0% (12 of 12) precincts reporting",
+    "ReportingTime": "November 10, 2020, 2:55 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "3209",
+        "yesPercent": "50.8",
+        "noVotes": "3106",
+        "noPercent": "49.2"
+      }
+    ]
+  },
+  "monterey": {
+    "raceTitle": "Ballot Measures - Monterey Results",
+    "Reporting": "100.0% (188 of 188) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "96233",
+        "yesPercent": "62.2",
+        "noVotes": "58588",
+        "noPercent": "37.8"
+      }
+    ]
+  },
+  "napa": {
+    "raceTitle": "Ballot Measures - Napa Results",
+    "Reporting": "100.0% (191 of 191) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "35982",
+        "yesPercent": "55.2",
+        "noVotes": "29249",
+        "noPercent": "44.8"
+      }
+    ]
+  },
+  "nevada": {
+    "raceTitle": "Ballot Measures - Nevada Results",
+    "Reporting": "100.0% (111 of 111) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:02 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "28027",
+        "yesPercent": "45.7",
+        "noVotes": "33342",
+        "noPercent": "54.3"
+      }
+    ]
+  },
+  "orange": {
+    "raceTitle": "Ballot Measures - Orange Results",
+    "Reporting": "100.0% (1,795 of 1,795) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:18 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "791036",
+        "yesPercent": "54.0",
+        "noVotes": "673577",
+        "noPercent": "46.0"
+      }
+    ]
+  },
+  "placer": {
+    "raceTitle": "Ballot Measures - Placer Results",
+    "Reporting": "100.0% (127 of 127) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:14 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "103080",
+        "yesPercent": "47.5",
+        "noVotes": "113770",
+        "noPercent": "52.5"
+      }
+    ]
+  },
+  "plumas": {
+    "raceTitle": "Ballot Measures - Plumas Results",
+    "Reporting": "100.0% (29 of 29) precincts reporting",
+    "ReportingTime": "November 3, 2020, 8:08 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "4604",
+        "yesPercent": "43.4",
+        "noVotes": "6006",
+        "noPercent": "56.6"
+      }
+    ]
+  },
+  "riverside": {
+    "raceTitle": "Ballot Measures - Riverside Results",
+    "Reporting": "100.0% (864 of 864) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:40 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "510868",
+        "yesPercent": "54.7",
+        "noVotes": "423664",
+        "noPercent": "45.3"
+      }
+    ]
+  },
+  "sacramento": {
+    "raceTitle": "Ballot Measures - Sacramento Results",
+    "Reporting": "100.0% (677 of 677) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:10 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "372359",
+        "yesPercent": "55.3",
+        "noVotes": "301566",
+        "noPercent": "44.7"
+      }
+    ]
+  },
+  "san-benito": {
+    "raceTitle": "Ballot Measures - San Benito Results",
+    "Reporting": "100.0% (54 of 54) precincts reporting",
+    "ReportingTime": "November 10, 2020, 4:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "16265",
+        "yesPercent": "59.3",
+        "noVotes": "11153",
+        "noPercent": "40.7"
+      }
+    ]
+  },
+  "san-bernardino": {
+    "raceTitle": "Ballot Measures - San Bernardino Results",
+    "Reporting": "100.0% (2,327 of 2,327) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "449093",
+        "yesPercent": "57.7",
+        "noVotes": "329163",
+        "noPercent": "42.3"
+      }
+    ]
+  },
+  "san-diego": {
+    "raceTitle": "Ballot Measures - San Diego Results",
+    "Reporting": "100.0% (1,414 of 1,414) precincts reporting",
+    "ReportingTime": "November 16, 2020, 5:04 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "869531",
+        "yesPercent": "57.3",
+        "noVotes": "648899",
+        "noPercent": "42.7"
+      }
+    ]
+  },
+  "san-francisco": {
+    "raceTitle": "Ballot Measures - San Francisco Results",
+    "Reporting": "100.0% (609 of 609) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "203965",
+        "yesPercent": "49.1",
+        "noVotes": "211839",
+        "noPercent": "50.9"
+      }
+    ]
+  },
+  "san-joaquin": {
+    "raceTitle": "Ballot Measures - San Joaquin Results",
+    "Reporting": "100.0% (207 of 207) precincts reporting",
+    "ReportingTime": "November 17, 2020, 9:12 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "151962",
+        "yesPercent": "57.7",
+        "noVotes": "111607",
+        "noPercent": "42.3"
+      }
+    ]
+  },
+  "san-luis-obispo": {
+    "raceTitle": "Ballot Measures - San Luis Obispo Results",
+    "Reporting": "100.0% (112 of 112) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:45 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "69890",
+        "yesPercent": "46.9",
+        "noVotes": "79261",
+        "noPercent": "53.1"
+      }
+    ]
+  },
+  "san-mateo": {
+    "raceTitle": "Ballot Measures - San Mateo Results",
+    "Reporting": "100.0% (403 of 403) precincts reporting",
+    "ReportingTime": "November 13, 2020, 4:34 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "206209",
+        "yesPercent": "58.9",
+        "noVotes": "143987",
+        "noPercent": "41.1"
+      }
+    ]
+  },
+  "santa-barbara": {
+    "raceTitle": "Ballot Measures - Santa Barbara Results",
+    "Reporting": "100.0% (226 of 226) precincts reporting",
+    "ReportingTime": "November 9, 2020, 3:56 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "107121",
+        "yesPercent": "57.2",
+        "noVotes": "80310",
+        "noPercent": "42.8"
+      }
+    ]
+  },
+  "santa-clara": {
+    "raceTitle": "Ballot Measures - Santa Clara Results",
+    "Reporting": "100.0% (596 of 596) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:23 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "473506",
+        "yesPercent": "58.6",
+        "noVotes": "333932",
+        "noPercent": "41.4"
+      }
+    ]
+  },
+  "santa-cruz": {
+    "raceTitle": "Ballot Measures - Santa Cruz Results",
+    "Reporting": "100.0% (168 of 168) precincts reporting",
+    "ReportingTime": "November 17, 2020, 12:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "76387",
+        "yesPercent": "55.8",
+        "noVotes": "60590",
+        "noPercent": "44.2"
+      }
+    ]
+  },
+  "shasta": {
+    "raceTitle": "Ballot Measures - Shasta Results",
+    "Reporting": "100.0% (97 of 97) precincts reporting",
+    "ReportingTime": "November 12, 2020, 4:15 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "36517",
+        "yesPercent": "42.0",
+        "noVotes": "50496",
+        "noPercent": "58.0"
+      }
+    ]
+  },
+  "sierra": {
+    "raceTitle": "Ballot Measures - Sierra Results",
+    "Reporting": "100.0% (23 of 23) precincts reporting",
+    "ReportingTime": "November 10, 2020, 3:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "812",
+        "yesPercent": "43.5",
+        "noVotes": "1056",
+        "noPercent": "56.5"
+      }
+    ]
+  },
+  "siskiyou": {
+    "raceTitle": "Ballot Measures - Siskiyou Results",
+    "Reporting": "100.0% (64 of 64) precincts reporting",
+    "ReportingTime": "November 17, 2020, 1:35 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "10390",
+        "yesPercent": "46.2",
+        "noVotes": "12087",
+        "noPercent": "53.8"
+      }
+    ]
+  },
+  "solano": {
+    "raceTitle": "Ballot Measures - Solano Results",
+    "Reporting": "100.0% (348 of 348) precincts reporting",
+    "ReportingTime": "November 17, 2020, 5:24 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "123682",
+        "yesPercent": "62.2",
+        "noVotes": "75218",
+        "noPercent": "37.8"
+      }
+    ]
+  },
+  "sonoma": {
+    "raceTitle": "Ballot Measures - Sonoma Results",
+    "Reporting": "100.0% (668 of 668) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:19 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "139641",
+        "yesPercent": "55.5",
+        "noVotes": "112065",
+        "noPercent": "44.5"
+      }
+    ]
+  },
+  "stanislaus": {
+    "raceTitle": "Ballot Measures - Stanislaus Results",
+    "Reporting": "100.0% (192 of 192) precincts reporting",
+    "ReportingTime": "November 17, 2020, 4:42 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "109471",
+        "yesPercent": "53.5",
+        "noVotes": "95301",
+        "noPercent": "46.5"
+      }
+    ]
+  },
+  "sutter": {
+    "raceTitle": "Ballot Measures - Sutter Results",
+    "Reporting": "100.0% (45 of 45) precincts reporting",
+    "ReportingTime": "November 10, 2020, 12:50 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "17958",
+        "yesPercent": "45.3",
+        "noVotes": "21670",
+        "noPercent": "54.7"
+      }
+    ]
+  },
+  "tehama": {
+    "raceTitle": "Ballot Measures - Tehama Results",
+    "Reporting": "100.0% (46 of 46) precincts reporting",
+    "ReportingTime": "November 12, 2020, 3:16 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "10837",
+        "yesPercent": "41.6",
+        "noVotes": "15238",
+        "noPercent": "58.4"
+      }
+    ]
+  },
+  "trinity": {
+    "raceTitle": "Ballot Measures - Trinity Results",
+    "Reporting": "100.0% (25 of 25) precincts reporting",
+    "ReportingTime": "November 16, 2020, 2:33 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "2875",
+        "yesPercent": "47.7",
+        "noVotes": "3153",
+        "noPercent": "52.3"
+      }
+    ]
+  },
+  "tulare": {
+    "raceTitle": "Ballot Measures - Tulare Results",
+    "Reporting": "100.0% (271 of 271) precincts reporting",
+    "ReportingTime": "November 13, 2020, 5:13 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "67213",
+        "yesPercent": "47.7",
+        "noVotes": "73667",
+        "noPercent": "52.3"
+      }
+    ]
+  },
+  "tuolumne": {
+    "raceTitle": "Ballot Measures - Tuolumne Results",
+    "Reporting": "100.0% (73 of 73) precincts reporting",
+    "ReportingTime": "November 5, 2020, 11:44 a.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "11667",
+        "yesPercent": "40.5",
+        "noVotes": "17150",
+        "noPercent": "59.5"
+      }
+    ]
+  },
+  "ventura": {
+    "raceTitle": "Ballot Measures - Ventura Results",
+    "Reporting": "100.0% (695 of 695) precincts reporting",
+    "ReportingTime": "November 17, 2020, 3:25 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "224619",
+        "yesPercent": "55.3",
+        "noVotes": "181484",
+        "noPercent": "44.7"
+      }
+    ]
+  },
+  "yolo": {
+    "raceTitle": "Ballot Measures - Yolo Results",
+    "Reporting": "100.0% (58 of 58) precincts reporting",
+    "ReportingTime": "November 13, 2020, 3:59 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "38317",
+        "yesPercent": "52.9",
+        "noVotes": "34070",
+        "noPercent": "47.1"
+      }
+    ]
+  },
+  "yuba": {
+    "raceTitle": "Ballot Measures - Yuba Results",
+    "Reporting": "100.0% (34 of 34) precincts reporting",
+    "ReportingTime": "November 10, 2020, 6:06 p.m.",
+    "ballot-measures": [
+      {
+        "Name": "Amends Consumer Privacy Laws",
+        "Number": "24",
+        "yesVotes": "12355",
+        "yesPercent": "47.2",
+        "noVotes": "13819",
+        "noPercent": "52.8"
+      }
+    ]
+  }
+}
